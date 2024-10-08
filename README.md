@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Web and Mobile development**
 - 🤝 I’m looking for help with **Java, Golang, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://atalibdev.com/](https://atalibdev.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-f54c1.web.app/](https://portfolio-f54c1.web.app/)
 
 - 📝 I regularly write articles on [Flutter Spring Boot](Flutter Spring Boot)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **almouslecka@gmail.com**
 
-- 📄 Know about my experiences [https://atalibdev.com/](https://atalibdev.com/)
+- 📄 Know about my experiences [https://atalibdev.com/](https://portfolio-f54c1.web.app/)
 
 - ⚡ Fun fact **I'm funny**
 
