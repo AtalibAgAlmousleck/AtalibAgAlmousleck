@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atalibagalmousleck&label=Profile%20views&color=0e75b6&style=flat" alt="atalibagalmousleck" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Spring Boot React**
-- 🌱 I’m currently learning **Golang, Flutter**
+- 🌱 I’m currently learning **Golang, Flutter, AWS**
 
 - 👯 I’m looking to collaborate on **Web and Mobile development**
 - 🤝 I’m looking for help with **Java, Golang, Flutter**
